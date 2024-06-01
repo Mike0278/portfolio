@@ -488,9 +488,9 @@ footer #section2{
         display: block;
     }
     #about section{
-        padding: 1rem;
+        padding: 0;
     }
-    #about h3 b{
+    #about section h3{
         margin-top: 20px;
     }
     #more ul{
