@@ -488,7 +488,7 @@ footer #section2{
         display: block;
     }
     #about section{
-        padding: 0;
+        padding: 1rem;
     }
     #about h3 b{
         margin-top: 20px;
