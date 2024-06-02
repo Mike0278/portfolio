@@ -463,7 +463,9 @@ footer #section2{
     .image{
         height: 230px;
     }
-    
+    main{
+        width:100℅;
+    }
     main section{
         height: 100%;
     }
